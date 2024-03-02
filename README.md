@@ -1,6 +1,8 @@
-# Exercise-04c-Enemies
+# Exercise-04d-Coins
 
 ## Implementation
+
+Adding collectable coins
 
 ## References
 
@@ -13,5 +15,7 @@ https://kenney.nl/assets/pixel-platformer
 
 ## Future Development
 
+More Levels?
+
 ## Created by
-Nathan Mishler
+Eric Lasse
